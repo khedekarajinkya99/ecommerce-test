@@ -18,3 +18,5 @@ I have also created apis to get products, add product to cart, and get cart list
 3. http://localhost:8000/api/getcartdata/1 to get cart list. It is an GET method. Have to pass the userid in api url. In the above link 1 is the userid
 
 <i><span style="color: red">Note:</span> If some error occured please use "php artisan optimize" it will clear all the caches. And refresh the page</i>
+
+<i>And please create <b>product_images</b> folder in storage/app/public</i>
