@@ -7,7 +7,7 @@ http://localhost:8000 where we view the added products. Single product view. Add
 I have created a migration and also uploading database schema in db folder.
 
 <i>*Please link storage with public*</i>
-<b>php artisan storage:link<b>
+<b>php artisan storage:link</b>
 
 I have also created apis to get products, add product to cart, and get cart list
 
